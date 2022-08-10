@@ -1,4 +1,4 @@
-### Eaee! Eu sou o José
+### Hello, I'm José!
 <div>
   <a href="https://github.com/jose-goulart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-goulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
